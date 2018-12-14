@@ -3,7 +3,7 @@ Application Permettant de Convertir votre monaie Haitienne en different type de 
 
 Temps de realisation: une semaine
 
-## Video Walkthrough
+## Video Test
 
 Here's a walkthrough of implemented user stories:
 
